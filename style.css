@@ -86,7 +86,12 @@ div{
 	margin-bottom:10px;
 
 }
-
+.red-text{
+    color: red;
+}
+.blue-background{
+    background-color:blue;
+}
 /*************************
 Navigation
 
